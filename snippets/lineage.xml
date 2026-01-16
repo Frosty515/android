@@ -16,6 +16,7 @@
   <project path="external/chromium-webview/prebuilt/x86" name="LineageOS/android_external_chromium-webview_prebuilt_x86" groups="pdk" revision="main" />
   <project path="external/chromium-webview/prebuilt/x86_64" name="LineageOS/android_external_chromium-webview_prebuilt_x86_64" groups="pdk" revision="main" />
   <project path="external/exfatprogs" name="LineageOS/android_external_exfatprogs" />
+  <project path="external/google-fonts/google-sans-flex" name="LineageOS/android_external_google-fonts_google-sans-flex" />
   <project path="external/htop" name="LineageOS/android_external_htop" />
   <project path="external/libncurses" name="LineageOS/android_external_libncurses" />
   <project path="external/nano" name="LineageOS/android_external_nano" />
@@ -34,6 +35,7 @@
   <project path="packages/apps/Catapult" name="LineageOS/android_packages_apps_Catapult" />
   <project path="packages/apps/DeskClock" name="LineageOS/android_packages_apps_DeskClock" groups="pdk-fs" />
   <project path="packages/apps/Etar" name="LineageOS/android_packages_apps_Etar" />
+  <project path="packages/apps/EuiccPolicy" name="LineageOS/android_packages_apps_EuiccPolicy" />
   <project path="packages/apps/ExactCalculator" name="LineageOS/android_packages_apps_ExactCalculator" />
   <project path="packages/apps/FMRadio" name="LineageOS/android_packages_apps_FMRadio" />
   <project path="packages/apps/FlipFlap" name="LineageOS/android_packages_apps_FlipFlap" />
@@ -54,6 +56,7 @@
   <project path="packages/resources/devicesettings" name="LineageOS/android_packages_resources_devicesettings" />
   <project path="prebuilts/extract-tools" name="LineageOS/android_prebuilts_extract-tools" clone-depth="1" />
   <project path="tools/extract-utils" name="LineageOS/android_tools_extract-utils" />
+  <project path="vendor/apn" name="LineageOS/android_vendor_apn" revision="main" />
   <project path="vendor/crowdin" name="LineageOS/android_vendor_crowdin" />
   <project path="vendor/lineage" name="LineageOS/android_vendor_lineage" />
 
