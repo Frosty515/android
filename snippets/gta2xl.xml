@@ -1,9 +1,10 @@
 <manifest>
 
   <remote name="gta2xl" fetch="https://github.com/UDPSendToFailed/" />
+  <remote name="Frosty515" fetch="https://github.com/Frosty515/" />
 
   <project path="frameworks/av" name="android_frameworks_av" remote="gta2xl" revision="lineage-23.0" />
-  <project path="frameworks/base" name="android_frameworks_base" remote="gta2xl" revision="lineage-23.0" />
+  <project path="frameworks/base" name="android_frameworks_base" remote="Frosty515" revision="lineage-23.0" />
   <project path="frameworks/native" name="android_frameworks_native" remote="gta2xl" revision="lineage-23.0" />
   <project path="hardware/qcom-caf/msm8996/audio" name="android_hardware_qcom_audio" remote="gta2xl" revision="lineage-23.0-caf-msm8996" />
   <project path="hardware/qcom/bt" name="android_hardware_qcom_bt" remote="gta2xl" revision="lineage-23.0" />
